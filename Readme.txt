@@ -1,2 +1,2 @@
-This is the first git program 
+This is the complete operating system lab programs
 	Edwin Babu	
